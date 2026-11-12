@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Вася</name>
+        <age>21</age>
+    </student>
+    <student>
+        <name>Петя</name>
+        <age>22</age>
+    </student>
+    <student>
+        <name>Кеша</name>
+        <age>23</age>
+    </student>
+</students>
